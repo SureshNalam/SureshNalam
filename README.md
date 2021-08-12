@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SureshNalam
+- 👋 Hi, I’m Suresh Nalam
 - 👀 I’m interested in Mobile Application Development using Android
 
 <!---
